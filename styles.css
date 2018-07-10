@@ -29,21 +29,32 @@ header{
     align-items: center;
     background-color: lightsalmon;
     padding: 10px;
-    width: 33%;
+    width: 25%;
 }
 
 .sortTag{
     background-color: mediumpurple;
     display: flex;
     align-items: center;
-    width: 33%;
+    width: 25%;
 }
 .sortTag input{
     width: 100%;
     height: 20%;
 }
+.getBack{
+    width: 25%;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.getBack h2{
+    background-color: white;
+    border: 2px solid white;
+}
 .search{
-    width: 33%;
+    width: 25%;
     background-color: lightgrey;
     display: flex;
     justify-content: center;
